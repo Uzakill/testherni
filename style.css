@@ -2,7 +2,8 @@ body {
     width: 100vw;
     height: 100vh;
     position: absolute;
-    display: block;   
+    display: block;  
+    background-color: rgb(6, 9, 241)
 }
 
 h1 {
@@ -11,5 +12,5 @@ h1 {
     left: 50%;
     transform: translate( -50%, -50%);
     font-size: 80px;
-    color: cadetblue
+    color: greenyellow 
 }
